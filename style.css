@@ -11,7 +11,7 @@
     user-select: none;
 }
 .menuButtons{
-    padding:40px 137px ;
+    padding:40px 135px ;
     border-width: 4px;
     border-color: rgb(190, 40, 40);
     background-color: rgb(46, 38, 38);
@@ -33,9 +33,9 @@ body{
 }
 .paragraphs{
     position: absolute;
-    margin-left: 520px;
-    width: 885px;
-    height : 650px;
+    margin-left: 400px;
+    width: 1200px;
+    height : 819px;
     margin-top: 0px;
 
 }
