@@ -44,3 +44,13 @@ body{
     margin-top: 0px;
     margin-bottom: 3px;
 }
+#text1par1{
+    background-color: white;
+    width: 400px; 
+    height: 300px;   
+    border-radius: 25px;
+    position:relative ;
+    left: 600px;
+    top: 100px;
+    
+}
