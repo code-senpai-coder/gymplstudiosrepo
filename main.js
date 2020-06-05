@@ -4,3 +4,5 @@ function swapElement(elementID){
 }
 
 const scrlt = (x,y) => {window.scroll(x,y)}
+
+//tady je odkaz na stack overflow na download udělej ještě dnes : https://stackoverflow.com/questions/16197706/how-to-save-javascript-variable-as-file-on-the-client-pc
