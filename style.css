@@ -48,9 +48,20 @@ body{
     background-color: white;
     width: 400px; 
     height: 300px;   
-    border-radius: 25px;
-    position:relative ;
+    border-radius:25px;
+    position: relative;
     left: 600px;
-    top: 100px;
+    top: 140px;
     
+    
+}
+#text2par1{
+    background-color: black;
+    width: 300px; 
+    height: 500px; 
+    border-radius:25px;
+    position: relative;
+    left: 900px;
+    top: -275px;
+    border: solid 2px white;
 }
