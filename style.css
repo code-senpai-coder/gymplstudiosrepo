@@ -14,6 +14,7 @@
     padding:40px 135px ;
     border-width: 4px;
     border-color: rgb(190, 40, 40);
+    border-radius: 25px;
     background-color: rgb(46, 38, 38);
     color:azure ;
     font-size: 30px;
@@ -38,4 +39,8 @@ body{
     height : 819px;
     margin-top: 0px;
 
+}
+#tophr{
+    margin-top: 0px;
+    margin-bottom: 3px;
 }
