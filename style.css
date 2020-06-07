@@ -67,7 +67,7 @@ body{
 }
 @media screen and (max-width: 479px) {
     .menuButtons{
-        padding: 8px 12px;
+        padding: 8px 10px;
         font-size: 10px;
         border-width: 2px;
         
