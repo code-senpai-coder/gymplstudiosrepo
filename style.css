@@ -67,15 +67,19 @@ body{
 }
 @media screen and (max-width: 479px) {
     .menuButtons{
-        padding: 0px 12px;
+        padding: 8px 12px;
         font-size: 10px;
         border-width: 2px;
+        
     }
     #mainHeading{
         padding-top: 10px;
         padding-bottom: 10px;
         font-size: 19px;
     }
+   .headings{
+      font-size: 15px;
+   }
     
 }
 *::selection{
