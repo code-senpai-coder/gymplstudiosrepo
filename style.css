@@ -80,6 +80,17 @@ body{
    .headings{
       font-size: 15px;
    }
+   #text2par1{
+     width :125px;
+     height: 180px;
+     left:190px;
+     top:-100px;
+     border: solid 1px white;
+   } 
+   #text1par1{
+     width:75px;
+     height:120px;
+   } 
     
 }
 *::selection{
