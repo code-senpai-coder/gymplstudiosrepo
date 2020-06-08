@@ -2,53 +2,59 @@
     margin: 0px;
     padding-top: 40px;
     padding-bottom: 40px;
-    font-size: 100px;
+    
     color: azure;
+
     text-align: center;
     font-family: 'Montserrat', sans-serif;
     font-weight: 100;
+    font-size: 100px;
+
     background-image: linear-gradient(to bottom right, #252221, #676665);
+
     user-select: none;
 }
 .menuButtons{
     padding:40px 135px ;
+
     border-width: 4px;
     border-color: rgb(190, 40, 40);
     border-radius: 25px;
     background-color: rgb(46, 38, 38);
+
     color:azure ;
+
     font-size: 30px;
-    display: inline;
     font-family: 'Lato', sans-serif;
+
+    display: inline;
+    
 }
 
 .headings{
     font-size: 30px;
     font-family: 'Nanum Gothic', sans-serif;
     text-align:center;
+
     color:azure;
+
     user-select: none;
 }
 body{
     background-color: rgb(17, 17, 17);
-}
-.paragraphs{
-    position: absolute;
-    margin-left: 400px;
-    width: 1200px;
-    height : 819px;
-    margin-top: 0px;
-
 }
 #tophr{
     margin-top: 0px;
     margin-bottom: 3px;
 }
 #text1par1{
-    background-color: white;
+    
     width: 400px; 
-    height: 300px;   
+    height: 300px;  
+     
     border-radius:25px;
+    background-color: white;
+
     position: relative;
     left: 600px;
     top: 140px;
@@ -57,24 +63,35 @@ body{
 }
 #text2par1{
     background-color: black;
+
     width: 300px; 
     height: 500px; 
+
     border-radius:25px;
+    border: solid 2px white;
+
     position: relative;
     left: 900px;
     top: -275px;
-    border: solid 2px white;
+
+    color: white;
+    font-size: 30px;
+    text-align: center;
+    font-family: 'Nanum Gothic', sans-serif;
 }
 @media screen and (max-width: 479px) {
     .menuButtons{
         padding: 8px 10px;
+
         font-size: 10px;
+
         border-width: 2px;
         
     }
     #mainHeading{
         padding-top: 10px;
         padding-bottom: 10px;
+
         font-size: 19px;
     }
    .headings{
@@ -84,5 +101,6 @@ body{
 }
 *::selection{
     background-color: red;
+    
     color: white;
 }
